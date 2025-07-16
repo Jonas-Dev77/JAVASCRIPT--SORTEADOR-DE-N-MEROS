@@ -16,9 +16,6 @@
      else {
          const result = (Math.floor(Math.random() * (max - min + 1)) + min);
 
-
-   
-
     const inputResultado = document.getElementById(".value");
     inputResultado.value = result;
 
@@ -26,10 +23,8 @@
 
     }
     
+   }
    
-
-    }
-    
    
 
     
